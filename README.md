@@ -1,3 +1,6 @@
+This package moved to https://github.com/spacetab-io/i18n-gin-go
+-------------------
+
 # i18n-go-gin
 A gin wrappers for a i18n-go package
 
